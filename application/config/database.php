@@ -7,7 +7,7 @@
             'hostname' => 'localhost',
             'username' => 'root',
             'password' => '',
-            'database' => 'bizlookup',
+            'database' => '',
             'dbdriver' => 'mysqli',
             'dbprefix' => '',
             'pconnect' => FALSE,
